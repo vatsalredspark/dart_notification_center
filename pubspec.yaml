@@ -1,4 +1,4 @@
-name: dart_notification_center_plus
+name: dart_notification_center
 description: A wrapper for the observer pattern for Dart in the style of the iOS Notification Center.
 version: 1.0.0+100
 homepage: https://github.com/vatsalredspark
